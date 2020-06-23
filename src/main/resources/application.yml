@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.60.12:3306/pf_project_test?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    username: pf_project_test
+    password: pf_project_test@dev
+  devtools:
+    restart:
+      enabled: true
