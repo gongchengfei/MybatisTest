@@ -25,7 +25,6 @@ public class UserTest {
     }
 
 
-//    @ToString
     @Getter
     @Setter
     public static class User{
